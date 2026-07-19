@@ -2,21 +2,21 @@
     {
         "device_id": "fec52c847a4561de",
         "username": "you",
-        "password": "you123",
+        "password": "you",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
     {
         "device_id": "fec52c847a4561de",
         "username": "you",
-        "password": "you123",
+        "password": "you",
         "expirydate": "31-12-2026",
         "Allowoffline": false
     },
         {
         "device_id": "fec52c847a4561de",
         "username": "you",
-        "password": "you123",
+        "password": "you",
         "expirydate": "31-12-2026",
         "Allowoffline": false
     }
