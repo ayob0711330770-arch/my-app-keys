@@ -1,26 +1,26 @@
- [
+[
   {
     "device_id": "fec52c847a4561de",
-    "username": "yousaf",
-    "password": "yousaf",
-    "expirydate": "23-07-2026",
-    "expirytime": "23:59:49",
+    "username": "ayob",
+    "password": "ayob",
+    "expirydate": "31-12-2026",
+    "expirytime": "23:59:59",
     "Allowoffline": true
   },
   {
     "device_id": "fec52c847a4561de",
-    "username": "8#kP92@Lm47",
-    "password": "8#kP92@Lm47",
-    "expirydate": "23-07-2026",
-    "expirytime": "23:59:59",
+    "username": "ayob",
+    "password": "ayob",
+    "expirydate": "31-12-2026",
+    "expirytime": "12:30:00",
     "Allowoffline": false
-  },
-   {
-"device_id": "fec52c847a4561de",
-    "username": "yousaf",
-    "password": "yousaf",
-    "expirydate": "23-07-2026",
-    "expirytime": "23:59:59",
+  }
+  {
+    "device_id": "fec52c847a4561de",
+    "username": "N4@zT76#Wm51",
+    "password": "N4@zT76#Wm51",
+    "expirydate": "31-12-2026",
+    "expirytime": "12:30:00",
     "Allowoffline": false
-
+  }
 ]
