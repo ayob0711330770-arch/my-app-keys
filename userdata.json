@@ -1,23 +1,18 @@
 [
-    {
-        "device_id": "fec52c847a4561de",
-        "username": "ayob",
-        "password": "ayob",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "fec52c847a4561de",
-        "username": "ayob",
-        "password": "ayob",
-        "expirydate": "31-12-2026",
-        "Allowoffline": false
-    },
-        {
-        "device_id": "fec52c847a4561de",
-        "username": "ayob",
-        "password": "ayob",
-        "expirydate": "31-12-2026",
-        "Allowoffline": false
-    }
+  {
+    "device_id": "fec52c847a4561de",
+    "username": "ayob",
+    "password": "ayob",
+    "expirydate": "31-12-2026",
+    "expirytime": "23:59:59",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "fec52c847a4561de",
+    "username": "ayob",
+    "password": "ayob",
+    "expirydate": "31-12-2026",
+    "expirytime": "12:30:00",
+    "Allowoffline": false
+  }
 ]
