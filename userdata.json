@@ -4,7 +4,7 @@
     "username": "ayob",
     "password": "ayob",
     "expirydate": "31-12-2026",
-    "expirytime": "23:59:59",
+    "expirytime": "5:0:00",
     "Allowoffline": true
   },
   {
@@ -12,7 +12,7 @@
     "username": "ayob",
     "password": "ayob",
     "expirydate": "31-12-2026",
-    "expirytime": "12:30:00",
+    "expirytime": "5:0:00",
     "Allowoffline": false
   }
 ]
