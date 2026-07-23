@@ -3,21 +3,21 @@
         "device_id": "fec52c847a4561de",
         "username": "ayob",
         "password": "ayob",
-        "expirydate": "31-12-2026",
+        "expirydate": "5:00"31-12-2026",
         "Allowoffline": true
     },
     {
         "device_id": "fec52c847a4561de",
         "username": "ayob",
         "password": "ayob",
-        "expirydate": "31-12-2026",
+        "expirydate": "5:00"31-12-2026",
         "Allowoffline": false
     },
         {
         "device_id": "fec52c847a4561de",
         "username": "ayob",
         "password": "ayob",
-        "expirydate": "31-12-2026",
+        "expirydate": "5:00"31-12-2026",
         "Allowoffline": false
     }
 ]
